@@ -14,7 +14,7 @@
 ## Technical Details
 This game is built using JavaScript and does not require any external libraries or dependencies.
 ## Screenshot
-[Simon Game Screenshot!](/images/Simon.png)
+![Simon Game Screenshot!](/images/Simon.png)
 
 ## Play the Game
 You can play the game online at the following link: [Simon Game](https://regal-dusk-45b9be.netlify.app)
